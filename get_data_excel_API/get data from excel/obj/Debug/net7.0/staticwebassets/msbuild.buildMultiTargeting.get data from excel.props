@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\get data from excel.props" />
+</Project>

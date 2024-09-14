@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wikto\\OneDrive\\Desktop\\gith\\get_data_excel_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A820A192-AF8E-45AF-B902-85760E31CC8A}|get data from excel\\get data from excel.csproj|c:\\users\\wikto\\onedrive\\desktop\\gith\\get_data_excel_api\\get data from excel\\controllers\\excelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A820A192-AF8E-45AF-B902-85760E31CC8A}|get data from excel\\get data from excel.csproj|solutionrelative:get data from excel\\controllers\\excelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A820A192-AF8E-45AF-B902-85760E31CC8A}|get data from excel\\get data from excel.csproj|C:\\Users\\wikto\\OneDrive\\Desktop\\gith\\get_data_excel_API\\get data from excel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A820A192-AF8E-45AF-B902-85760E31CC8A}|get data from excel\\get data from excel.csproj|solutionrelative:get data from excel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A820A192-AF8E-45AF-B902-85760E31CC8A}|get data from excel\\get data from excel.csproj|C:\\Users\\wikto\\OneDrive\\Desktop\\gith\\get_data_excel_API\\get data from excel\\excelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A820A192-AF8E-45AF-B902-85760E31CC8A}|get data from excel\\get data from excel.csproj|solutionrelative:get data from excel\\excelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A820A192-AF8E-45AF-B902-85760E31CC8A}|get data from excel\\get data from excel.csproj|C:\\Users\\wikto\\OneDrive\\Desktop\\gith\\get_data_excel_API\\get data from excel\\excelservice2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A820A192-AF8E-45AF-B902-85760E31CC8A}|get data from excel\\get data from excel.csproj|solutionrelative:get data from excel\\excelservice2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExcelService2.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\gith\\get_data_excel_API\\get data from excel\\ExcelService2.cs",
+              "RelativeDocumentMoniker": "get data from excel\\ExcelService2.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\gith\\get_data_excel_API\\get data from excel\\ExcelService2.cs",
+              "RelativeToolTip": "get data from excel\\ExcelService2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:09:17.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExcelService.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\gith\\get_data_excel_API\\get data from excel\\ExcelService.cs",
+              "RelativeDocumentMoniker": "get data from excel\\ExcelService.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\gith\\get_data_excel_API\\get data from excel\\ExcelService.cs",
+              "RelativeToolTip": "get data from excel\\ExcelService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:56:08.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\gith\\get_data_excel_API\\get data from excel\\Program.cs",
+              "RelativeDocumentMoniker": "get data from excel\\Program.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\gith\\get_data_excel_API\\get data from excel\\Program.cs",
+              "RelativeToolTip": "get data from excel\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:19:05.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcelController.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\gith\\get_data_excel_API\\get data from excel\\Controllers\\ExcelController.cs",
+              "RelativeDocumentMoniker": "get data from excel\\Controllers\\ExcelController.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\gith\\get_data_excel_API\\get data from excel\\Controllers\\ExcelController.cs",
+              "RelativeToolTip": "get data from excel\\Controllers\\ExcelController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwE4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:18:54.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

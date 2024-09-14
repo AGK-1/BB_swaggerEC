@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Y2OFKAFgfpBG3cL+uO1Pgp7sauvgpOxfcwFytZxhLNU=",
+  "Source": "get data from excel",
+  "BasePath": "_content/get data from excel",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,58 @@
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\appsettings.json
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\get data from excel.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\get data from excel.deps.json
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\get data from excel.runtimeconfig.json
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\get data from excel.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\get data from excel.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\EPPlus.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\System.Formats.Asn1.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\get data from excel.csproj.AssemblyReference.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\get data from excel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\get data from excel.AssemblyInfoInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\get data from excel.AssemblyInfo.cs
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\get data from excel.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\get data from excel.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\get data from excel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\staticwebassets\msbuild.get data from excel.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\staticwebassets\msbuild.build.get data from excel.props
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.get data from excel.props
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.get data from excel.props
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\scopedcss\bundle\get data from excel.styles.css
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\get data.8813F5F2.Up2Date
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\get data from excel.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\refint\get data from excel.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\get data from excel.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\get data from excel.genruntimeconfig.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\get data from excel\get data from excel\obj\Debug\net7.0\ref\get data from excel.dll
