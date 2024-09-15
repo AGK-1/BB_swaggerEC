@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Excel File</title>
+</head>
+<body>
+    <form action="https://localhost:7055/api/Excel/upload" method="post" enctype="multipart/form-data">
+        <input id="avatar" type="file" name="avatar" type="file" name="file" />
+        <button class="glow-on-hover" type="submit">Upload</button>
+    </form>
+</body>
+<style>
+
+</style>
+</html>
+<style>
+input {
+  margin-top: 1rem;
+}
+
+input::file-selector-button {
+  font-weight: bold;
+  color: dodgerblue;
+  padding: 0.5em;
+  border: thin solid grey;
+  border-radius: 3px;
+}
+
+.glow-on-hover{
+  font-weight: bold;
+  color: dodgerblue;
+  padding: 0.5em;
+  border: thin solid grey;
+  border-radius: 3px;
+}
+</style>
